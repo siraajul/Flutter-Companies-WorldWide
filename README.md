@@ -4,12 +4,14 @@ A curated list of companies using Flutter in their tech stack, organized by coun
 
 ## Countries
 
-- [United States 🇺🇸](/countries/united-states.md)
+- [Australia 🇦🇺](/countries/australia.md)
+- [Bangladesh 🇧🇩](/countries/bangladesh.md)
+- [Canada 🇨🇦](/countries/canada.md)
+- [Germany 🇩🇪](/countries/germany.md)
 - [India 🇮🇳](/countries/india.md)
 - [United Kingdom 🇬🇧](/countries/united-kingdom.md)
-- [Germany 🇩🇪](/countries/germany.md)
-- [Australia 🇦🇺](/countries/australia.md)
-- [Canada 🇨🇦](/countries/canada.md)
+- [United States 🇺🇸](/countries/united-states.md)
+
   [Add more countries as needed]
 
 ## Contributing
@@ -22,5 +24,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-Maintained by: [Your Name]
+Maintained by: - [Sirajul Islam](/countries/united-states.md)
 Last Updated: November 2024
