@@ -2,9 +2,9 @@
 
 Companies in [Country Name] using Flutter in their tech stack.
 
-| Company Name | Website | Email   | LinkedIn       | Flutter Usage | Location |
-| ------------ | ------- | ------- | -------------- | ------------- | -------- |
-| [Name]       | [URL]   | [Email] | [LinkedIn URL] | [Usage]       | [City]   |
+| Company Name            | Website                                           | Email   | LinkedIn                                                     | Flutter Usage        | Location                                                                                               |
+| ----------------------- | ------------------------------------------------- | ------- | ------------------------------------------------------------ | -------------------- | ------------------------------------------------------------------------------------------------------ |
+| Adventure Dhaka Limited | [Website](https://adventurekk.com/company/about/) | [Email] | [LinkedIn](https://www.linkedin.com/company/adventuredhaka/) | Enterprise Solutions | Head Office: Autograph Tower, 67-68, Kemal Ataturk Avenue, Banani, 17th & 8th Floor, Dhaka, Dhaka 1213 |
 
 ## Contributing
 
