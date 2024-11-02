@@ -18,11 +18,7 @@ A curated list of companies using Flutter in their tech stack, organized by coun
 
 Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting your contribution.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ---
 
-Maintained by: - [Sirajul Islam](/countries/united-states.md)
+Maintained by: - [Sirajul Islam](https://www.linkedin.com/in/siraajul/)
 Last Updated: November 2024
