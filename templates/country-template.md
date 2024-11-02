@@ -2,9 +2,9 @@
 
 Companies in [Country Name] using Flutter in their tech stack.
 
-| Company Name | Website | Email   | LinkedIn       | Flutter Usage | Location |
-| ------------ | ------- | ------- | -------------- | ------------- | -------- |
-| [Name]       | [URL]   | [Email] | [LinkedIn URL] | [Usage]       | [City]   |
+| Company Name | Website | Career Email | LinkedIn       | Flutter Usage | Location |
+| ------------ | ------- | ------------ | -------------- | ------------- | -------- |
+| [Name]       | [URL]   | [Email]      | [LinkedIn URL] | [Usage]       | [City]   |
 
 ## Contributing
 
