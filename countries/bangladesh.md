@@ -1,4 +1,4 @@
-# [Bangladesh] 🇧🇩 Flutter Companies
+# Bangladesh 🇧🇩 Flutter Companies
 
 Companies in [Country Name] using Flutter in their tech stack.
 
