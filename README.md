@@ -9,8 +9,10 @@ A curated list of companies using Flutter in their tech stack, organized by coun
 - [Canada 🇨🇦](/countries/canada.md)
 - [Germany 🇩🇪](/countries/germany.md)
 - [India 🇮🇳](/countries/india.md)
+- [Pakistan 🇵🇰](/countries/pakistan.md)
 - [United Kingdom 🇬🇧](/countries/united-kingdom.md)
 - [United States 🇺🇸](/countries/united-states.md)
+
 
   [Add more countries as needed]
 
