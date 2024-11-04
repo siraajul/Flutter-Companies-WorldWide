@@ -2,6 +2,8 @@
 
 A curated list of companies using Flutter in their tech stack, organized by country.
 
+- [Top 100 Flutter Companies ](/top_100.md)
+
 ## Countries
 
 - [Australia 🇦🇺](/countries/australia.md)
@@ -12,7 +14,6 @@ A curated list of companies using Flutter in their tech stack, organized by coun
 - [Pakistan 🇵🇰](/countries/pakistan.md)
 - [United Kingdom 🇬🇧](/countries/united-kingdom.md)
 - [United States 🇺🇸](/countries/united-states.md)
-
 
   [Add more countries as needed]
 
